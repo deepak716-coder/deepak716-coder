@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deepak716-coder
+- 👋 Hi, I’m Deepak Kumar
 - 👀 I’m interested in python, ML
 - 🌱 I’m currently learning Data augmentation. 
 - 💞️ I’m looking to collaborate on ML
